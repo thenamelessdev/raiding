@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: lightgrey;
+}
+button{
+    color: black;
+}
+button:hover{
+    background-color: rgb(49, 49, 49);
+}
